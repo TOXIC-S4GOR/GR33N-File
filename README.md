@@ -21,4 +21,4 @@ git clone https://github.com/TOXIC-S4GOR/GR33N-File
 
 cd GR33N-File
 
-python GR33N-File.py
+python GREEN-File.py
