@@ -15,4 +15,10 @@ pkg install python2
 
 pkg install git
 
-git clone
+
+git clone https://github.com/TOXIC-S4GOR/GR33N-File
+
+
+cd GR33N-File
+
+python GR33N-File.py
